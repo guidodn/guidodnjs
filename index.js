@@ -144,7 +144,6 @@ const actualizarCarrito = () => {
 
 }
 
-
 let timerInterval
 Swal.fire({
   title: '¡Bienvenido a Impresión 3D!',
